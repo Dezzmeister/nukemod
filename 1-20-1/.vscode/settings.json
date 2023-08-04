@@ -1,0 +1,14 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.import.gradle.wrapper.enabled": true,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-18",
+      "path": "C:\\Program Files\\Java\\jdk-18",
+      "sources": "C:\\Program Files\\Java\\jdk-18\\lib\\src.zip",
+      "javadoc": "C:\\Program Files\\Java\\jdk-18\\bin",
+      "default": true
+    }
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

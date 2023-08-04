@@ -1,0 +1,13 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.import.gradle.wrapper.enabled": true,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-14",
+      "path": "C:\\Program Files\\Java\\jdk-14.0.2",
+      "sources": "C:\\Program Files\\Java\\jdk-14.0.2\\lib\\src.zip",
+      "javadoc": "C:\\Program Files\\Java\\jdk-14.0.2\\bin",
+      "default": true
+    }
+  ]
+}
